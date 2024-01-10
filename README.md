@@ -2,6 +2,8 @@
 
 The engineered Web3 application represents a significant advancement in decentralized application (dApp) security, employing the Commit-Reveal cryptography algorithm to effectively address front-running attacks within the node network. This innovative solution not only enhances the security of transactions but also prioritizes user experience through a user-centric design. By seamlessly merging robust functionality with improved confidentiality measures, this application stands at the forefront of secure and efficient decentralized environments.
 
+![image](https://github.com/shaishavtayde/CryptElliot-A-CommitRevealBC/assets/65271121/537a388c-16ec-412e-ab71-3db47a9dfd9b)
+
 Key Features:
 
 1. **Commit-Reveal Cryptography Algorithm:**
@@ -28,3 +30,6 @@ Key Features:
     - The application can be utilized in gaming platforms and NFT marketplaces to secure in-game asset transactions and token transfers, preventing front-running attacks and preserving the confidentiality of valuable assets.
 
 In summary, this Web3 application marks a pivotal advancement in decentralized application security, providing a foundation for secure, efficient, and user-friendly interactions in various decentralized use cases. The incorporation of the Commit-Reveal algorithm adds an extra layer of protection against front-running attacks, contributing to the overall resilience and trustworthiness of decentralized ecosystems.
+
+
+
